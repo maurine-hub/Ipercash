@@ -89,7 +89,7 @@ const Header = () => {
 
       {/* Mobile Menu (visible on small screens when menuOpen is true) */}
       {menuOpen && (
-        <nav className="md:hidden bg-white shadow-md rounded-md mt-2">
+        <nav className="md:hidden bg-white bg-opacity-5 shadow-md rounded-md mt-2">
           <ul className="flex flex-col space-y-2 p-4 uppercase text-black font-semibold">
             <li><Link href="/" onClick={() => setMenuOpen(false)}>Home</Link></li>
             <li><Link href="#about" onClick={() => setMenuOpen(false)}>About</Link></li>

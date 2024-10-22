@@ -61,7 +61,7 @@ const Features = ()=>{
                 />
                 </div>
 
-                <div className="flex max-sm:flex-col container md:px-10 pb-28 w-[85%] justify-between ">
+                <div className="flex max-sm:flex-col container pb-10 md:px-10 md:pb-28 w-[85%] justify-between ">
                     <div className="flex flex-col w-72 max-sm:pb-6 items-center md:items-end ">
                         {/* <Images/> */}
                         <h1 className="py-3 text-lg md:text-xl">ISO & ANDROID VERSION</h1>
