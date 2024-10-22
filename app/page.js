@@ -3,6 +3,7 @@ import Hero from "./pages/hero";
 import About from "./pages/about";
 import Features from "./pages/features";
 import Checkout from "./pages/checkout";
+import Learn from "./pages/learn";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       <About/>
       <Features/>
       <Checkout/>
+      <Learn/>
     </div>
   );
 }

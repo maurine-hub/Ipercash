@@ -96,7 +96,7 @@ export default function Checkout() {
             </div>
           </div>
 
-          <div className='w-[40%] ml-28'>
+          <div className='md:w-[40%] md:ml-28 p-8'>
             <Image
               src={images[2].src}
               alt=''
