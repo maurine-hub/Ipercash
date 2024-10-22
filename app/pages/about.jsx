@@ -51,7 +51,8 @@ function About (){
                                 <FaCheckCircle className="text-[#cc1616]"/>
                                 <h3 className="uppercase pl-3 font-semibold">best user experience</h3>
                             </div>
-                            <p className="text-base  text-neutral-500">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti, enim. Labore cum excepturi praesentium mollitia, magnam voluptatum vero culpa suscipit cumque nostrum in rerum enim eum veniam iusto rem eos!</p>
+                            <p className="max-sm:hidden text-base ml-8 text-neutral-500">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti, enim. Labore cum excepturi praesentium mollitia, magnam voluptatum vero culpa suscipit cumque nostrum in rerum enim eum veniam iusto rem eos!</p>
+                            <p className="md:hidden text-base ml-8 text-neutral-500">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti, enim. Labore cum excepturi praesentium mollitia.</p>
                         </div>
 
                     </div>
